@@ -1,7 +1,9 @@
 # ARRT (Augmented Reality RadioTherapy: Planning and Education) 
 
-![Obj Ancored](https://github.com/khat1/CollabARRT/assets/39097440/f10888c4-00aa-4055-a0f1-cf977a3ef48c)
-![DICOMIMG](https://github.com/khat1/CollabARRT/assets/39097440/4912a7f9-aa20-4a87-9532-428cb83567e0)
+![Obj Ancored](https://github.com/khat1/AART/assets/39097440/9bd1a658-093e-41ee-adc7-282a89a52b83)
+![DICOMIMG](https://github.com/khat1/AART/assets/39097440/8ce1b039-31cd-4d4f-8940-283a9e2f5194)
+
+
 
 This project has only access to certain elements of the ARRT system. 
 
